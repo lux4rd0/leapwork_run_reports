@@ -138,7 +138,7 @@ services:
     environment:
       # Leapwork Configuration
       LEAPWORK_RUN_REPORTS_ACCESS_KEY: YOUR_LEAPWORK_ACCESS_KEY_HERE
-      LEAPWORK_RUN_REPORTS_LEAPWORK_URL: http://lw201.tylephony.com:9001
+      LEAPWORK_RUN_REPORTS_LEAPWORK_URL: http://leapwork201.lux4rd0.com:9001
 
       # FastAPI Server Configuration
       LEAPWORK_RUN_REPORTS_FASTAPI_SERVER_HOST: 0.0.0.0
